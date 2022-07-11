@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/disbursementph"
+	"github.com/freeacger/xendit-go"
+	"github.com/freeacger/xendit-go/disbursementph"
 )
 
 func ExampleCreate() {

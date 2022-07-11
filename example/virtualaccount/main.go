@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/virtualaccount"
+	"github.com/freeacger/xendit-go"
+	"github.com/freeacger/xendit-go/virtualaccount"
 )
 
 func main() {

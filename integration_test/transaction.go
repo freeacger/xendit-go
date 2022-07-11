@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/xendit/xendit-go/transaction"
+	"github.com/freeacger/xendit-go/transaction"
 )
 
 func transactionTest() {

@@ -4,18 +4,18 @@ package client
 import (
 	"net/http"
 
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/balance"
-	"github.com/xendit/xendit-go/card"
-	"github.com/xendit/xendit-go/cardlesscredit"
-	"github.com/xendit/xendit-go/disbursement"
-	"github.com/xendit/xendit-go/ewallet"
-	"github.com/xendit/xendit-go/invoice"
-	"github.com/xendit/xendit-go/payout"
-	"github.com/xendit/xendit-go/qrcode"
-	"github.com/xendit/xendit-go/recurringpayment"
-	"github.com/xendit/xendit-go/retailoutlet"
-	"github.com/xendit/xendit-go/virtualaccount"
+	"github.com/freeacger/xendit-go"
+	"github.com/freeacger/xendit-go/balance"
+	"github.com/freeacger/xendit-go/card"
+	"github.com/freeacger/xendit-go/cardlesscredit"
+	"github.com/freeacger/xendit-go/disbursement"
+	"github.com/freeacger/xendit-go/ewallet"
+	"github.com/freeacger/xendit-go/invoice"
+	"github.com/freeacger/xendit-go/payout"
+	"github.com/freeacger/xendit-go/qrcode"
+	"github.com/freeacger/xendit-go/recurringpayment"
+	"github.com/freeacger/xendit-go/retailoutlet"
+	"github.com/freeacger/xendit-go/virtualaccount"
 )
 
 // API is the Xendit client which contains all products

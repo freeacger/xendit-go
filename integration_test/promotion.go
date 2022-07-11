@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/xendit/xendit-go/promotion"
+	"github.com/freeacger/xendit-go/promotion"
 )
 
 func promotionTest() {

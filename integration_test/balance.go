@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/xendit/xendit-go/balance"
+	"github.com/freeacger/xendit-go/balance"
 )
 
 func balanceTest() {

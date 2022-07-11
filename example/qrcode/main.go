@@ -6,9 +6,9 @@ import (
 	"os"
 	"time"
 
+	"github.com/freeacger/xendit-go"
+	"github.com/freeacger/xendit-go/qrcode"
 	"github.com/joho/godotenv"
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/qrcode"
 )
 
 func main() {

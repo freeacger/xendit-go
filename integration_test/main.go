@@ -4,7 +4,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/xendit/xendit-go"
+	"github.com/freeacger/xendit-go"
 )
 
 //array of functions to test

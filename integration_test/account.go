@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/account"
+	"github.com/freeacger/xendit-go"
+	"github.com/freeacger/xendit-go/account"
 )
 
 func accountTest() {

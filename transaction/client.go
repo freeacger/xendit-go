@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net/http"
 
+	"github.com/freeacger/xendit-go"
+	"github.com/freeacger/xendit-go/utils/validator"
 	"github.com/google/go-querystring/query"
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/utils/validator"
 )
 
 // Client is the client used to invoke invoice API.

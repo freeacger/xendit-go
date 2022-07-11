@@ -3,7 +3,7 @@ package disbursement
 import (
 	"context"
 
-	"github.com/xendit/xendit-go"
+	"github.com/freeacger/xendit-go"
 )
 
 // Create creates new disbursement

@@ -3,7 +3,7 @@ package qrcode
 import (
 	"context"
 
-	"github.com/xendit/xendit-go"
+	"github.com/freeacger/xendit-go"
 )
 
 // CreateQRCode creates new QR Code.

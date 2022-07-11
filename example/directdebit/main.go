@@ -7,10 +7,10 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/directdebit/directdebitpayment"
-	"github.com/xendit/xendit-go/directdebit/linkedaccount"
-	"github.com/xendit/xendit-go/directdebit/paymentmethod"
+	"github.com/freeacger/xendit-go"
+	"github.com/freeacger/xendit-go/directdebit/directdebitpayment"
+	"github.com/freeacger/xendit-go/directdebit/linkedaccount"
+	"github.com/freeacger/xendit-go/directdebit/paymentmethod"
 )
 
 func main() {
