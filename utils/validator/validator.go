@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	gpv "github.com/go-playground/validator/v10"
+	gpv "github.com/go-playground/validator"
 	"github.com/xendit/xendit-go"
 )
 
